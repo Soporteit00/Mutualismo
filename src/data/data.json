@@ -1,0 +1,1414 @@
+{
+  "coverPage": {
+    "type"            : "startPage",
+    "units"           : 8,
+    "title"           : "Amando el Mutualismo",
+    "subTitle"        : "Gestión del Talento Humano",
+    "module"          : "",
+    "courseName"      : "Para comenzar, haz clic en el siguiente botón:",
+    "footer": {
+      "label"         : "Amando el Mutualismo"
+    }
+  },
+
+  "page1": {
+    "type"        : "pageInstruction",
+    "title"       : "Antes de iniciar...",
+    "information": [
+      {
+        "text1"   : "Para la realización del curso, ten en cuenta las siguientes recomendaciones:"
+      },
+      {
+        "text1"   : "Guarda todo lo que pueda distraerte"
+      },
+      {
+        "text1"   : "Apaga tu celular o ponlo en silencio"
+      },
+      {
+        "text1"   : "Ten a la mano cuaderno y lápiz donde tomar nota"
+      },
+      {
+        "text1"   : "Además, <b>debes leer y navegar</b> toda la información que aparecerá en las diferentes pantallas."
+      },
+      {
+        "text1"   : "Para la navegación contarás con estos 2 botones:"
+      },
+      {
+        "text1"   : "El menú del curso lo encontrará en la parte izquierda de la pantalla."
+      },
+      {
+        "text1"   : ""
+      }
+    ],
+    "instruction": {
+      "type"      : "mouse",
+      "text"      : "Haz clic en los círculos para visualizar todas las recomendaciones.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 320,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page2": {
+    "type"    : "pageCourse",
+    "title"   : "Hola",
+    "text"    : "En este curso aprenderás sobre la economía solidaria y el mutualismo, así como los principios y valores que rigen a las mutuales. <br><br>Estos son los objetivos del curso:<br><br>❖ Ubicar el mutualismo dentro contexto de la economía Solidaria.<br>❖ Diferenciar conceptos sobre : doctrina, principios y valores.<br>❖ Conocer los principios y valores del mutualismo.<br>❖ Establecer las diferencias entre las mutuales y otras organizaciones con ánimo de lucro que prestan servicios similares a las mutuales, así como de las del sector solidario.<br>❖ Conocer el marco jurídico de las Asociaciones Mutuales.<br>❖ Caracterizar la asociación mutual en su doble dimensión.<br><br><b class='F1-5'>¡Comencemos!</b>",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Luego de leer la bienvenida, te invitamos a desplegar el menú que hay al lado izquierdo para comenzar la formación.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page3": {
+    "type": "pageCourse",
+    "startUnit": true,
+    "nameUnit": "unit1",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Metodología",
+    "text"    : "<b>Conceptualización:</b> Este proceso permite trabajar los temas a partir del conocimiento de los (as) participantes para luego enriquecerlo con el texto de la diapositiva.<br><br><b>Análisis:</b> En el proceso de aprendizaje es de gran importancia no dejar el trabajo de conceptualización en un ejercicio únicamente reflexivo - informativo, sino trascender hacia el análisis para tener mayores elementos de juicio respecto a los temas tratados, a partir de la realización de talleres<br><br><b>Reflexión:</b> De todo el conocimiento apropiado es importante reflexionar y priorizar sobre los elementos que permitirán enriquecer la práctica cotidiana de las personas que participan del acto educativo.<br><br><b>Autoevaluación:</b> A modo de conclusión se busca crear en las personas participantes conciencia acerca de la importancia que tiene el proceso educativo para enriquecer su práctica diaria, por ello se han establecido al final de cada uno de los módulos cuestionarios que permitirán la autoevaluación.",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información de los beneficios de la Tarjeta Débito AMAR.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page4": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "El mutualismo dentro del contexto económico",
+    "text"    : "",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información de los beneficios de la Tarjeta Débito AMAR.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page5": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "¿Es posible la economía solidaría?",
+    "text"    : "La evolución de la economía como ciencia social, ha dado lugar al surgimiento de modelos económicos alternativos entre los cuales se encuentra la Economía Solidaria, a partir de la cual se busca rescatar todas aquellas experiencias que demuestran en los hechos; cómo es posible, además de deseable, producir, distribuir, consumir y acumular con sentido solidario.<br><br><b class='F1-5'>La Economía Solidaria</b><br><br>Se denomina Economía Solidaria al sistema socioeconómico, cultural y ambiental conformado por el conjunto de fuerzas sociales organizadas en formas asociativas, identificadas por prácticas autogestionarias, solidarias, democráticas y humanistas, sin ánimo de lucro, por el desarrollo integral del ser humano como sujeto, actor y fin de la economía.",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información de los beneficios de la Tarjeta Débito AMAR.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page6": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Principios de la economía solidaria y Fines de la economía solidaria",
+    "text"    : "",
+    "instruction": {
+      "type"          : "mouse",
+      "text"          : "Haz clic en cada uno de los botones para ver los principios y fines de la economía solidaria.",
+      "posY"          : 33,
+      "posX"          : 0,
+      "size"          : 400,
+      "color"         : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/23n-1.png",
+        "title"             : "Disponibilidad",
+        "posY"              : 13,
+        "posX"              : 143,
+        "itemInfo": {
+          "title"           : "01",
+          "text1"           : "El ser humano, su trabajo y los mecanismos de cooperación tienen supremacía sobre los medios de producción. El centro es el hombre.",
+          "text2"           : "",
+          "colorText"       : "#023974",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 86,
+        "posX"              : 263,
+        "itemInfo": {
+          "title"           : "02",
+          "text1"           : "Se reconocen como principios fundamentales trascendentales de la economía solidaria la participación, la autogestión, la solidaridad, la ayuda mutua y la autodeterminación.",
+          "text2"           : "",
+          "colorText"       : "#074991",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 228,
+        "posX"              : 258,
+        "itemInfo": {
+          "title"           : "03",
+          "text1"           : "La promoción del desarrollo integral del ser humano.",
+          "text2"           : "",
+          "colorText"       : "#2171B3",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 283,
+        "posX"              : 144,
+        "itemInfo": {
+          "title"           : "04",
+          "text1"           : "La generación de prácticas que consoliden el pensamiento solidario.",
+          "text2"           : "",
+          "colorText"       : "#2097D3",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 221,
+        "posX"              : 31,
+        "itemInfo": {
+          "title"           : "05",
+          "text1"           : "La contribución al ejercicio y perfeccionamiento de la democracia participativa.",
+          "text2"           : "",
+          "colorText"       : "#89C240",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "",
+        "title"             : "",
+        "posY"              : 86,
+        "posX"              : 29,
+        "itemInfo": {
+          "title"           : "06",
+          "text1"           : "La participación en el diseño y ejecución de planes, programas y proyectos de desarrollo económico y social. (Ley 454 de 98 Art. 4 y 5 )",
+          "text2"           : "",
+          "colorText"       : "#683E92",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ],
+    "resources": {
+      "bgImg": ""
+    }
+  },
+
+  "page7": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Clasificación de las organizaciones solidarias",
+    "text"    : "<b>Organizaciones solidarias de desarrollo: </b>son aquellas organizaciones que sin ánimo de lucro y empleando bienes y servicios privados, construyen bienes y servicios públicos, es decir de uso social. Su característica común es que ejercen la solidaridad de adentro hacia fuera, dirigido hacia comunidades.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 33,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "1. Asociaciones",
+          "color": "#1F2A63"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "Son organizaciones sin ánimo de lucro conformadas por personas con intereses comunes. No tienen un número mínimo o máximo de afiliados, son de libre adhesión y se regulan plenamente por sus estatutos."
+        }
+      },
+      {
+        "button": {
+          "text": "2. Fundaciones",
+          "color": "#27357E"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "Son patrimonios autónomos que se destinan única y exclusivamente al objetivo establecido por sus fundadores. No tienen ánimo de lucro, no tienen un monto mínimo en su patrimonio y se regulan totalmente por sus estatutos. Su principio legal está determinado en el código civil artículo 633. Art. 38, 103."
+        }
+      },
+      {
+        "button": {
+          "text": "3. Corporaciones",
+          "color": "#2B3B8A"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "Son organizaciones sin ánimo de lucro que buscan alcanzar un objetivo social. Sus miembros no requieren vínculo común, no existe valor mínimo en sus aportes y se regulan totalmente por sus propios estatutos. <br><br>Las corporaciones y fundaciones se encuentran enmarcadas dentro del Código Civil artículo 633, además de reseñas constitucionales y 355, La vigilancia y control está a cargo de las gobernaciones y de la alcaldía Mayor de Bogotá para el caso de Bogotá"
+        }
+      }
+    ]
+  },
+
+  "page8": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Clasificación de las organizaciones solidarias",
+    "text"    : "<b>Organizaciones de la Economía Solidaria:</b> son el conjunto de organizaciones que siendo de iniciativa privada, tienen como fin el beneficio colectivo o social y no tienen como fundamento el enriquecimiento o la posesión y crecimiento del capital económico individual, sino que se inclinan por el mejoramiento de las condiciones de vida de sus asociados.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 33,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "Organizaciones solidarias",
+          "color": "#D69E11"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "❖Precooperativas.<br>❖Cooperativas.<br>❖Instituciones. Auxiliares de la Economía Solidaria.<br>❖Fondos de Empleados.<br>❖Asociaciones Mutualistas.<br>❖Empresas solidarias de salud.<br>❖Empresas comunitarias.<br>❖Organismos de segundo y tercer grado que agrupen cooperativas u <br>otras formas asociativas y solidarias"
+        }
+      },
+      {
+        "button": {
+          "text": "Organizaciones solidarias",
+          "color": "#E65853"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "❖Empresas de servicios en las formas de administraciones Públicas Cooperativas<br> y todas aquellas formas asociativas que cumplan con lo establecido en la Ley 454<br> de 1998: principios, fines, características y demás lineamientos en el marco del <br>sistema de la economía solidaria."
+        }
+      }
+    ]
+  },
+
+  "page9": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "La Asociación Mutual",
+    "text"    : "Elementos que la originan:",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre los elementos que originan la asociación mutual.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page10": {
+    "type": "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Elementos Integrantes de la Mutualidad",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic sobre cada ícono para descubrir cuáles son los elementos que la originan.",
+      "posY"    : 33,
+      "posX"    : 0,
+      "size"    : 380,
+      "color"   : "#F0B114"
+    },
+    "multimedia": {
+      "type": "icon",
+      "items": [
+        {
+          "id"    : 1,
+          "title" : "El hombre asumiendo una actitud consciente",
+          "text"  : "",
+          "img"   : "img/7/n-1.png"
+        },
+        {
+          "id"    : 2,
+          "title" : "El grupo o la unión de esfuerzos",
+          "text"  : "",
+          "img"   : "img/7/n-2.png"
+        },
+        {
+          "id"    : 3,
+          "title" : "El objetivo o la expresión de los intereses individuales y de grupo",
+          "text"  : "",
+          "img"   : "img/7/n-3.png"
+        },
+        {
+          "id"    : 4,
+          "title" : "La organización o la estructura para el ejercicio de la ayuda mutua",
+          "text"  : "",
+          "img"   : "img/7/n-4.png"
+        },
+        {
+          "id"    : 5,
+          "title" : "El trabajo o la materialización del objetivo común",
+          "text"  : "",
+          "img"   : "img/7/n-5.png"
+        }
+      ]
+    }
+  },
+
+  "page11": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Solidaridad",
+    "subTitle": "",
+    "text"    : "<i class='F1-5'>La solidaridad es un estilo de vida que permite vivir dignamente en común - unidad</i>",
+    "text2"   : "“Hay momentos para dar amorosamente el pescado. Otros momentos reclaman una distribución justa del pescado. Aprender a pescar con el otro siempre será un momento liberador. Y todo momento es propicio para aprender a pescar con el otro”. (Sarmiento, Alfredo. 2004)",
+    "text3": "",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre el servicio de Protección Exequial.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 390,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page12": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "La Asociación Mutual",
+    "text"    : "Algunos aspectos caracterizan a una asociación mutual:",
+    "text2": "",
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/3/n-1.png",
+        "title"             : "social",
+        "color"             : "#FCBB14",
+        "itemInfo": {
+          "title"           : "En cuanto lo social",
+          "text1"           : "“Hoy por ti mañana por mí”",
+          "text2"           : "Una mutual es una empresa que une personas para ayudarse entre sí a superar las dificultades de la vida.",
+          "colorText"       : "#FCBB14",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Económico",
+        "color"             : "#2B3B8A",
+        "itemInfo": {
+          "title"           : "En cuando lo económico",
+          "text1"           : "",
+          "text2"           : "<li>Contribución en dinero para administrar, dar auxilios o ayudas.</li><li>Traslado de la mascota al lugar de la cremación.</li><li>La muerte no es su única razón de ser.</li><li>Las mutuales que se quedaron en este servicio no han crecido o desaparecieron.</li><li>Trabajar por la vida, y en el ámbito de la seguridad social.</li>",
+          "colorText"       : "#2B3B8A",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ],
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada ícono para conocer la información.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 290,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page13": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Por la vida las Mutuales prestan los siguientes servicios:",
+    "text"    : "<li>Ahorro</li><li>Crédito</li><li>Protección exequial</li><li>Salud</li><li>Educación y cultura</li><li>Recreación y turismo</li><li>Agrupadora seguridad social</li><br><b>En el curso de Generalidades verás más información sobre cada uno de estos servicios.</b>",
+    "text2": "",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre los servicios que prestan las mutuales.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 390,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page14": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Principios del Mutualismo",
+    "text"    : "",
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/3/n-1.png",
+        "title"             : "Humanísticos",
+        "color"             : "#149FF0",
+        "itemInfo": {
+          "title"           : "Humanísticos",
+          "text1"           : "",
+          "text2"           : "■ Ayudar en las dificultades. No sólo en lo funerario sino en todo lo que sea necesario para una vida segura y amable.<br>■ Mejorar la condición humana, motivando al perfeccionamiento como seres humanos. <br>■ Apoyar al trabajador y a su familia. Porque las mutuales fueron creadas por trabajadores y cada persona tiene responsabilidad con su familia que es el grupo donde se origina su felicidad.<br>■ Reconocer la dignidad y los derechos del ser humano porque todos son sujetos de sufrimiento y tienen derecho a recibir ayuda para mitigarlo.",
+          "colorText"       : "#149FF0",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Económicos",
+        "color"             : "#5CB85C",
+        "itemInfo": {
+          "title"           : "Económicos",
+          "text1"           : "",
+          "text2"           : "■ Crear un fondo común no devolutivo. Las contribuciones de los asociados son los ingresos con los cuales se apoya a la administración de la mutual y se ayuda a los asociados.<br>■ Servir sin ánimo de lucro, por eso no distribuyen el patrimonio social sino que lo acrecientan con los excedentes.<br>■ Acumular riqueza colectiva que sirva a todos los asociados.<br>■ Administrar con eficiencia y honestidad, porque no se puede defraudar la confianza de los asociados y porque hay que aplicar con mucha racionalidad los recursos económicos. Los asociados están obligados a vigilar que este principio sí se cumpla.",
+          "colorText"       : "#5CB85C",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Administrativos",
+        "color"             : "#F0B114",
+        "itemInfo": {
+          "title"           : "Administrativos",
+          "text1"           : "",
+          "text2"           : "■ Promover la gestión comunitaria, por eso son abiertas al ingreso y retiro de los asociados.<br>■ Practicar la democracia, o sea reconocer la igualdad en los deberes y los derechos. <br>■ Educar, formar, capacitar. Porque la educación es el medio para lograr que los asociados participen y los dirigentes sean eficientes.<br>■ Establecer servicios y crear cultura de la previsión y la seguridad. es deber de las mutuales concientizar a la personas en la búsqueda de protección para superar los riesgos que trae la existencia y además deben crear servicios que permitan esta protección. Es tarea de las mutuales crear cultura de la previsión, del proyecto de vida, del orden y el ahorro en los gastos, del cuidado de la salud”. <br>■ Los principios anteriormente enunciados, se encuentran integrados a los valores, entendidos estos como las actitudes que dan sentido a los principios y motivan su práctica. <br>■ Todos los valores tienen un carácter positivo y promueven el perfeccionamiento de la persona, impulsándola hacia la nobleza, el amor, el servicio y la convivencia pacífica. Las mutuales se comprometen con la difusión de los valores entre sus administradores, sus asociados y la comunidad.",
+          "colorText"       : "#F0B114",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ],
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada ícono para conocer la información.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 290,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page15": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Los Valores",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "Conceptos",
+          "color": "#FCBB14"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "Los conceptos de valor y de costo tienen connotaciones similares; cuando algo tiene valor es porque cuesta. Los valores se traducen de inmediato en actitudes y es actuando como mostramos qué valor tenemos. Son los valores de las cosas lo que hace que nos gusten y muchas veces pagamos por el valor que las cosas tienen en si. <br><br>Los valores son algo que toca con la mente, con el sentimiento y con la conducta. Es decir con la cabeza, con el corazón y con la mano, la inteligencia nos indica que alguna cosa tiene valor, que vale la pena; el sentimiento nos inclina hacia esa cosa con afecto, nos indica que ese algo es valioso, y ,finalmente la voluntad nos lleva a desear y mantener esa cosa, es decir a obrar en concordancia con ella.<br><br>Los valores se forman con disciplina, con rigor, con orientaciones, con seriedad, con honestidad, con responsabilidad, con equidad, con altruismo, con capacidad de compromiso, con respeto a los demás, con amor al trabajo y otras cosas más que, sólo el ejemplo sabe dar."
+        }
+      },
+      {
+        "button": {
+          "text": "Filosóficos",
+          "color": "#E65853"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "Derechos humanos, libertad primacía del trabajo sobre el capital."
+        }
+      },
+      {
+        "button": {
+          "text": "Económicos",
+          "color": "#62C462"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "No ánimo de lucro, distribución social del excedente, eficiencia económica y administrativa."
+        }
+      },
+      {
+        "button": {
+          "text": "Éticos",
+          "color": "#07C3D9"
+        },
+        "information": {
+          "img1": "img/18/n-4.png",
+          "img2": "",
+          "text": "Responsabilidad, lealtad y justicia."
+        }
+      },
+      {
+        "button": {
+          "text": "Políticos",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-5.png",
+          "img2": "",
+          "text": "Democracia, participación, autonomía y pluralidad."
+        }
+      },
+      {
+        "button": {
+          "text": "Sociales",
+          "color": "#F0B114"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Solidaridad y cooperación."
+        }
+      }
+    ]
+  },
+
+  "page16": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Normatividad",
+    "text"    : "Constitución Nacional 1991<br>ARTS: 57, 58 ,60 Y 333<br>Leyes:<br>Ley 79 DE 1988<br>Ley 454 DE 1998<br>Ley 2143 DE 2021<br>Circulares:<br>Básica Jurídica<br>Básica Contable y Financiera<br>Estatutos<br>Reglamentos",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre la normatividad de la Mutualidad AMAR.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 390,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page17": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Legislación Mutualista",
+    "text"    : "■ Primer reglamentación en el año 1981 decreto reglamentario 3143 . Inexequible en 1982 <br><br>■ En el año 1989 en el artículo 131 de Ley 79 de 1988, se expiden los Decretos 1480,1481,1482 que reglamentan las asociaciones Mutuales, los Fondos de Empleados y las Administraciones Públicas Cooperativas.<br><br>■ La ley 2143 dota al mutualismo con un marco jurídico, fija su objeto social y restringe el uso del nombre de Asociación Mutual a las empresas de Economía solidaria.<br><br>■ La ley 454 de 1998 fija como ente de control a la SUPERSOLIDARIA y encarga al DANSOCIAL el fomento de las organizaciones de la Economía Solidaria.",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre la legislación mutualista.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 390,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page18": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Órganos de Administración.",
+    "text"    : "La Administración en las mutuales está a cargo de:<br><br>■ La Asamblea General.<br>■ La Junta directiva.<br>■ El Representante Legal.",
+    "instruction": {
+      "type"    : "",
+      "text"    : "Lee atentamente toda la información sobre los órganos de administración de las mutuales.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 350,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page19": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Clases de Asamblea",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "De constitución",
+          "color": "#F0B114"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "Es la primera asamblea que realiza una Mutual, para constituirse como empresa, <br>no pueden ser menos de 25 asociados."
+        }
+      },
+      {
+        "button": {
+          "text": "Según su Naturaleza",
+          "color": "#27357E"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "General De Asociados.<br><br>De Delegados"
+        }
+      },
+      {
+        "button": {
+          "text": "Según el tiempo de realización",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "<b>Ordinarias</b>, se celebran dentro de los tres primeros meses de cada año.<br><br><b>Extraordinarias:</b> Cualquier época del año para tratar asuntos específicos.<br><br><b>Extemporáneas:</b> son las ordinarias que se realizan por fuera del <br>término estipulado por la Ley. Se debe solicitar autorización para realizarlas."
+        }
+      }
+    ]
+  },
+
+  "page20": {
+    "type"        : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "CONDICIONES PARA QUE LA ASAMBLEA SEA VALIDA",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "CONVOCATORIA VALIDA",
+          "color": "#0754D9"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "<b>CÓMO:</b> convocar para publicación.<br>Día, Lugar, Hora, Objetivo.<br><br><b>QUIÉN:</b> Competencia para convocar.<br><br>Asamblea Ordinaria: La Junta Directiva, Junta de Control Social y Revisor Fiscal conjuntamente o en forma separada o el 10% de los asociados hábiles .(Art.30 Decreto 1480)<br><br>Asamblea Extraordinaria: Junta Directiva, Junta de Control Social. Revisor fiscal y un 10% de los asociados hábiles Pueden solicitar a la Junta directiva la convocatoria a asamblea extraordinaria, ( Art. 30 Dto 1480)"
+        }
+      },
+      {
+        "button": {
+          "text": "ASAMBLEA VALIDA",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "<b>A QUIÉN:</b> Asociados Hábiles:<br>• Inscritos en registro social.<br>• No suspendidos.<br>• Al corriente en obligaciones.<br><br><b>CUÁNDO:</b> El estatuto deben establecer los plazos para convocar."
+        }
+      },
+      {
+        "button": {
+          "text": "DELIBERACIONES VÁLIDAS",
+          "color": "#2B3B8A"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "<b>QUORUM</b> Número mínimo de asociados que deben estar presentes, para iniciar la asamblea en forma válida.<br><br> <b>Ordinario</b> 50% de Asociados hábiles o de los delegados convocados<br><br><b>Mínimo</b> Después de una hora 10 % del total de los asociados hábiles ni al 50% del número requerido para constituir una Mutual.<br><br><b>En asamblea de Delegados:</b> Mínimo 20 Delegados se deben elegir. <br><br><b>Quórum mínimo</b> = 50% de los elegidos y convocados."
+        }
+      },
+      {
+        "button": {
+          "text": "DECISIONES VALIDAS",
+          "color": "#27357E"
+        },
+        "information": {
+          "img1": "img/18/n-4.png",
+          "img2": "",
+          "text": "<b>Mayoría Absoluta</b> ½ + 1 de votos presentes.<br><br><b>Mayoría Calificada</b> 2/3 partes de asociados o delegado presentes se requiere para:<br>• Reforma estatutos<br>• Contribuciones extraordinarias<br>• Transformación - Fusión<br>• Incorporación<br>• Disolución.<br><br><b>Mayoría Simple:</b>mayor número de votos presentes.<br><br> <b>Cociente Electoral:</b> Total de votos válidos dividido por el de cargos a proveer."
+        }
+      },
+      {
+        "button": {
+          "text": "FUNCIONES DE LA ASAMBLEA",
+          "color": "#1F2A63"
+        },
+        "information": {
+          "img1": "img/18/n-5.png",
+          "img2": "",
+          "text": "• Establecer las políticas y directrices generales de la cooperativa para el cumplimiento del objeto social. <br><br>• Reformar el estatuto.<br><br>• Examinar los informes de los órganos de administración y vigilancia. <br><br>• Aprobar o improbar los estados financieros. <br><br>• Aprobar la destinación de los excedentes.<br><br>• Fijar las contribuciones extraordinarias. <br><br>•Elegir los miembros de la Junta Directiva y de la Junta de Control Social. <br><br>• Nombrar el Revisor Fiscal y su suplente y fijar su remuneración. <br><br>•Decidir la fusión, incorporación, transformación y liquidación de la Asociación. <br><br>• Elegir al Comité disciplinario y de Apelaciones. <br><br>• Aprobar su propio reglamento de funcionamiento y las demás que la Ley y los Estatutos le señalen."
+        }
+      },
+      {
+        "button": {
+          "text": "LAS FUNCIONES",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "<b>ASAMBLEA:</b> Direccionamiento y Elección de dirigentes <br><br><b>JUNTA DIRECTIVA:</b> Dirección <br><br><b>JUNTA DE CONTROL SOCIAL:</b> Control social<br><br> <b>GERENCIA:</b> Planeación - Administración<br><br><b>COMITÉS:</b> Apoyo <br><br><b>ASOCIADO:</b> Organización, Participación, Control."
+        }
+      }
+    ]
+  },
+
+  "page21": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Funciones de la Gestión",
+    "text"    : "Es la configuración de procesos sociales con el propósito de alcanzar objetivos",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en los botones para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "background": {
+      "bg": "img/17/bgPage-17.png"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"   : "img/17/n-1.png",
+        "pos": {
+          "top"       : 19,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "Dirigir",
+          "text"      : "Para dirigir, se necesita tener aptitud, se debe estar convencido de lo que se quiere, de a donde se quiere llegar, y además, contar con la capacidad de convencer a los demás.",
+          "posGlobe": {
+            "posY"    : 42,
+            "posX"    : 144
+          },
+          "color"     : "#93C750"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-2.png",
+        "pos": {
+          "top"       : 190,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "Control Social",
+          "text"      : "Función mediante la cual los asociados, en forma directa o mediante un órgano definido para ello, aseguran el logro de resultados sociales para Cumplir el Objeto Social y Preservar la Identidad Institucional.",
+          "posGlobe": {
+            "posY"    : 212,
+            "posX"    : 144
+          },
+          "color"     : "#0A4D94"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-3.png",
+        "pos": {
+          "top"       : 370,
+          "left"      : 10
+        },
+        "itemInfo": {
+          "title"     : "El Control",
+          "text"      : "Acción de verificar el cumplimiento de los planes establecidos y la aplicación de Correctivos que permitan el alcance de los Objetivos propuestos. Implica seguimiento, vigilancia oportuna y permanente sobre el cumplimiento de las funciones y responsabilidades en el complejo organizacional.",
+          "posGlobe": {
+            "posY"    : 384,
+            "posX"    : 139
+          },
+          "color"     : "#347DB9"
+        }
+      },
+      {
+        "urlImgBtn"   : "img/17/n-4.png",
+        "pos": {
+          "top"       : 553,
+          "left"      : 710
+        },
+        "itemInfo": {
+          "title"     : "Administración y Control Social",
+          "text"      : "En las Mutuales existe el control administrativo y financiero a través de las auditorias internas o revisorías fiscales externas, que consiste esencialmente en el análisis y credibilidad de la información contable, tiene su campo de acción en el componente empresarial y es diferente al control social.",
+          "posGlobe": {
+            "posY"    : 578,
+            "posX"    : 119
+          },
+          "color"     : "#33A0D6"
+        }
+      }
+    ]
+  },
+
+  "page22": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "RÉGIMEN ECONÓMICO DE LA MUTUAL",
+    "text"    : "El régimen económico de la Mutual es el de economía mixta, es decir, la Mutual es una entidad de derecho privado, con personalidad jurídica y patrimonio propio, que se rige por las normas del derecho privado y por las disposiciones legales y reglamentarias que le sean aplicables.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en la imagen para visualizar el carrusel de imágenes.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": {
+      "buttonModal": {
+        "title"       : "",
+        "text"        : "",
+        "imgBg"       : "img/10/btnGallery.png"
+      },
+      "gallery": [
+        {
+          "key"       : 1,
+          "img"       : "img/10/n-1.jpg"
+        },
+        {
+          "key"       : 2,
+          "img"       : "img/10/n-2.jpg"
+        },
+        {
+          "key"       : 3,
+          "img"       : "img/10/n-3.jpg"
+        },
+        {
+          "key"       : 4,
+          "img"       : "img/10/n-4.jpg"
+        },
+        {
+          "key"       : 5,
+          "img"       : "img/10/n-5.jpg"
+        }
+      ],
+      "closedModal"   : true
+    }
+  },
+
+  "page23": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Características de la mutual",
+    "text"    : "Que funcione bajo los principios de :<br><br>- Autonomía, Adhesión voluntaria, Participación democrática.<br>- Neutralidad política, religiosa ,ideológica y racial, solidaridad,<br>- ayuda mutua e integración.<br>- Que establezca contribuciones económicas a sus asociados para la prestación de sus servicios.<br>- Que el número de asociados y el patrimonio sea variable e ilimitado.<br>- Que realice permanentemente actividades de educación mutual.<br>- Que sean organizaciones sin ánimo de lucro, por eso establecen la no devolución de las contribuciones de los asociados y la irrepartibilidad del remanente patrimonial en caso de liquidación , destinando sus excedentes, a la prestación de servicios de carácter social y al crecimiento de las reservas y fondos.<br>- Que su duración sea indefinida.<br>- Que promueva la participación e integración con otras entidades que tengan como finalidad promover el desarrollo integral del hombre.",
+    "instruction": {
+      "type"    : "",
+      "text"    : "",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page24": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Aportes de la ley 2143 al desarrollo mutualista",
+    "text"    : "■ Diversificación de servicios : ahorro, crédito, salud, turismo.<br>■ Legalización del modelo (formalización)<br>■ Democratización Participación<br>■ Fomento de la educación<br>■ Control estatal. Reconocimiento Estatal<br>■ Identidad de la organización mutual.(diferente a una funeraria)<br>■ Integración del movimiento.<br>■ Asunción de lo concepción de la mutual como empresa.<br>■ Formación de líderes con formación Administrativa.<br>■ Aceptación de relevo generacional en la dirección",
+    "instruction": {
+      "type"    : "",
+      "text"    : "",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page25": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "LEY 2143 DE 2021",
+    "text"    : "CAPITULO I<br>- Objeto, naturaleza, características, responsabilidad, prohibiciones, denominación.<br><br>CAPITULO II<br>- De la constitución y reconocimiento.<br><br>CAPITULO III<br>- De los asociados :quien puede ser asociado. <br>- Derechos, deberes. Pérdida de la calidad de asociado. Régimen disciplinario.<br><br>CAPITULO IV<br>Patrimonio, fondo social mutual, forma de pago de las contribuciones, período del ejercicio económico, reserva de protección, reservas y fondos, fondo social para imprevistos, inembargabilidad de las contribuciones.",
+    "text2": "CAPITULO V<br>-De la Dirección, Administración y Control.<br>- Asamblea general. Clases de asambleas, convocatoria, quórum, mayorías, voto. Funciones de la asamblea<br>- Junta directiva, representante legal. Junta de control social.<br>- Incompatibilidades. Revisor Fiscal<br>- Funciones .Actas .Impugnaciones.<br><br>CAPITULO VI<br>- De los servicios<br>- Prestaciones de las asociaciones mutuales. Convenios para la prestación de servicios, establecimiento de servicios <br>- Servicios de ahorro y crédito",
+    "instruction": {
+      "type"    : "",
+      "text"    : "",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 470,
+      "color"     : "#F0B114"
+    }
+  },
+
+  "page26": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Retos del Mutualismo",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada ícono para conocer la información.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 290,
+      "color"     : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/3/n-1.png",
+        "title"             : "Retos",
+        "color"             : "#FCBB14",
+        "itemInfo": {
+          "title"           : "Retos - Parte 1",
+          "text1"           : "",
+          "text2"           : "- Innovación en la prestación de los servicios ahorro y crédito.<br>- Mejorar en tecnología.<br>- Formación de nuevos lideres y capacitación a los actuales.<br>- Integrarse para aprovechar fortalezas. <br>- Contribuir con la disminución del hambre y con la erradicación de la pobreza.<br>- Trabajar para contribuir el desarrollo sostenible, trabajando con los empleados, asociados y sus familias , la localidad y comunidad en general para mejorar su calidad de vida.",
+          "colorText"       : "#FCBB14",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      },
+      {
+        "urlImgBtn"         : "img/3/n-2.png",
+        "title"             : "Retos - Parte 2",
+        "color"             : "#2B3B8A",
+        "itemInfo": {
+          "title"           : "Retos",
+          "text1"           : "",
+          "text2"           : "- Establecer indicadores de la gestión social que nos permitan medir los resultados y el impacto de la gestión social anual es decir su balance social paralelamente con el balance económico que nos permita mirar si estamos siendo socialmente responsables.<br>- Arrancar a nuestros asociados de los agiotistas y gota a gota reemplazándolo por el crédito productivo.<br>- Aplicación de la Equidad de género.<br>- Vinculación de la juventud al mutualismo y a sus programas como beneficiarios<br>- Defensa del agua como un derecho fundamental.",
+          "colorText"       : "#2B3B8A",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ]
+  },
+
+  "page27": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "Instrucciones para el desarrollo de las actividades",
+    "text"    : "",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada botón vertical para conocer la información.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "button": {
+          "text": "PASO 1",
+          "color": "#07C3D9"
+        },
+        "information": {
+          "img1": "img/18/n-1.png",
+          "img2": "img/18/nTeclas-1.png",
+          "text": "El acta de la reunión deberá contener, como mínimo, en su cuerpo:<br><br>• Número de acta<br>• Tipo de asamblea (ordinaria o extraordinaria)<br>• Fecha, hora y lugar de la reunión<br>• Forma y antelación de la convocatoria y órgano que convoca de acuerdo con los estatutos<br>• Número de asociados convocados y número de asociados o delegados asistentes<br>• Constancia del quórum deliberatorio<br>• Orden del día<br>• Asuntos tratados<br>• Nombramientos efectuados bajo el sistema de elección establecido en los estatutos<br>• Decisiones adoptadas y el número de votos a favor, en contra, en blanco o nulos<br>• Constancias presentadas por los asistentes<br>• Fecha y hora de la clausura, entre otros"
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 2",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-2.png",
+          "img2": "",
+          "text": "Para todo tipo de asamblea, la junta de control social o el órgano que haga sus veces, deberá:<br><br>- Verificar el listado de asociados hábiles e inhábiles y <br>- Publicar la lista de estos últimos de conformidad con los estatutos.<br>• La lista deberá ser suscrita por los miembros de dicho órgano y en ella se dejará constancia de la fecha de publicación.<br>• Si algún miembro del órgano de vigilancia no está de acuerdo con el listado de asociados hábiles o inhábiles, deberá dejar constancia en tal sentido con las observaciones que tenga sobre el particular."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 3",
+          "color": "#149FF0"
+        },
+        "information": {
+          "img1": "img/18/n-3.png",
+          "img2": "",
+          "text": "Cuando la asamblea se realice por el sistema de delegados, deberá allegarse a la Superintendencia el reglamento para su elección y las actas de escrutinio correspondientes a la misma."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 4",
+          "color": "#0754D9"
+        },
+        "information": {
+          "img1": "img/18/n-4.png",
+          "img2": "",
+          "text": "Cuando en la asamblea se apruebe una reforma estatutaria o se elijan miembros de los órganos de administración y vigilancia, es preciso dejar constancia en el acta sobre:<br><br>• El número de asociados presentes en el momento de someter a aprobación la reforma estatutaria o en el momento de la elección.<br>• Número de votos obtenidos por la lista o candidato (dependiendo del sistema de elección).<br>• Número de cargos a proveer, discriminando si se trata de suplentes o principales por cada órgano y periodo para el cual corresponde la elección."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 5",
+          "color": "#2B3B8A"
+        },
+        "information": {
+          "img1": "img/18/n-5.png",
+          "img2": "",
+          "text": "Una vez concluida la asamblea y elaborada el acta, ésta debe ser firmada por quienes hayan actuado como presidente y secretario y por todos los asociados elegidos como integrantes de la comisión para la aprobación del acta."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 6",
+          "color": "#27357E"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Las actas correspondientes a reuniones de asamblea general y del consejo de administración serán sentadas, dentro del menor tiempo posible, en los libros respectivos. <br><br>• Estos libros deberán ser inscritos ante las correspondientes cámaras de comercio así como los actos y documentos que legalmente deben inscribirse.<br>• Dichos actos y documentos deben enviarse a la Superintendencia para el control de legalidad posterior."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 7",
+          "color": "#1F2A63"
+        },
+        "information": {
+          "img1": "img/18/n-6.png",
+          "img2": "",
+          "text": "Para todos los efectos, las copias de las actas que se presenten ante la Superintendencia de la Economía Solidaria, deberán ser:<br><br>- Fotocopias tomadas del libro inscrito en cámara de comercio<br>- Extractos de la parte pertinente; en ambos casos, certificados por el secretario de la reunión o, en su defecto, por el representante legal."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 8",
+          "color": "#2D05E8"
+        },
+        "information": {
+          "img1": "img/18/n-7.png",
+          "img2": "",
+          "text": "Si el sistema de elección adoptado, según los estatutos, es el de listas o planchas se aplicará el cuociente electoral, en los términos previstos en el artículo 197 del Código de Comercio.<br><br>• Se determinará dividiendo el número total de los votos válidos emitidos por el de las personas que hayan de elegirse.<br>• El escrutinio se comenzará por la lista que hubiere obtenido mayor número de votos y así en orden descendente.<br>• De cada lista se declararán elegidos tantos nombres cuantas veces quepa el cuociente en el número de votos emitidos por la misma, y si quedaren puestos por proveer, éstos corresponderán a los residuos más altos, escrutándolos en el mismo orden descendente.<br>• En caso de empate de los residuos decidirá la suerte.<br>• Los votos en blanco sólo se computarán para determinar el cuociente electoral.<br>• Cuando los suplentes fueren numéricos podrán reemplazar a los principales elegidos de la misma lista.<br>• Las personas elegidas no podrán ser reemplazadas en elecciones parciales, sin proceder a nueva elección por el sistema del cuociente electoral a menos que las vacantes se provean por unanimidad."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 9",
+          "color": "#6106D0"
+        },
+        "information": {
+          "img1": "img/18/n-8.png",
+          "img2": "",
+          "text": "Sin perjuicio de lo establecido en los estatutos o en los reglamentos de las entidades solidarias supervisadas en cuanto a la elección de órganos o cuerpos plurales, la Superintendencia sugiere: <br><br>- Que las listas o planchas contengan igual número de candidatos al de cargos a proveer (principales y suplentes), es decir, si son cinco los cargos a proveer, las listas deberían contener igual número de candidatos y si el número de principales y suplentes es diferente, la elección debería hacerse por separado (ejemplo: 7 principales 3 suplentes)."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 10",
+          "color": "#0418DE"
+        },
+        "information": {
+          "img1": "img/18/n-9.png",
+          "img2": "",
+          "text": "En este sistema se deben tener en cuenta en forma exacta los “decimales”, en el caso que se presenten, tanto al obtener el resultado del cuociente electoral, así como para las personas elegidas por “cuociente” o por “residuo”, en la forma prevista en el artículo 197 del Código de Comercio.<br>- No están permitidas las aproximaciones cuando la cifra contiene decimales, por exceso o por defecto. (ejemplo, 10,4 - 92,8 - 14,2)."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 11",
+          "color": "#000D93"
+        },
+        "information": {
+          "img1": "img/18/n-10.png",
+          "img2": "",
+          "text": "En virtud del principio de información a los asociados, resulta conveniente que se informe a todos ellos la fecha en que se va a convocar a asamblea, con el fin de facilitar su participación en la misma."
+        }
+      },
+      {
+        "button": {
+          "text": "PASO 12",
+          "color": "#00085C"
+        },
+        "information": {
+          "img1": "img/18/n-10.png",
+          "img2": "",
+          "text": "Se recomienda a las entidades supervisadas, ajustar sus estatutos en el sentido de establecer en números absolutos las mayorías mínimas requeridas para la toma de decisiones, especialmente, cuando los cuerpos plurales de administración y vigilancia están integrados por números impares.<br><br>- Por ejemplo, si un consejo de administración o junta directiva está conformado por siete (7) miembros, en lugar de establecer que el quórum deliberatorio es “la mitad más uno de los miembros”, lo que correspondería matemáticamente a 4,5 y por aproximación a 5 de ellos, resulta más conveniente, para evitar interpretaciones equivocadas, establecer el número exacto con el cual se deben aprobar las decisiones , por ejemplo, 4 ó 5, según lo que considere adecuado la entidad respectiva."
+        }
+      }
+    ]
+  },
+
+  "page28": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "LA JUNTA DIRECTIVA",
+    "text"    : "Es el Órgano de dirección de la mutual subordinado a la Asamblea General y Responsable de la eficiencia y eficacia De la gestión administrativa.<br><br><b>Estatutos establecen:</b><br>- El numero de integrantes.<br>- Causales de remoción. <br>- Periodo y funciones.",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en cada ícono para conocer la información.",
+      "posY"      : 33,
+      "posX"      : 0,
+      "size"      : 290,
+      "color"     : "#F0B114"
+    },
+    "multimedia": [
+      {
+        "urlImgBtn"         : "img/3/n-1.png",
+        "title"             : "Funciones",
+        "color"             : "#FCBB14",
+        "itemInfo": {
+          "title"           : "Funciones",
+          "text1"           : "",
+          "text2"           : "• Elaborar plan de acción.<br>• Aprobar el presupuesto.<br>• Reglamentar estatutos y servicios.<br>• Formular políticas.<br>• Dirigir la educación MUTUAL.<br>• Definir la estructura y asignaciones.<br>• Nombrar el gerente.<br>• Aprobar la admisión y retiro de asociados.<br>• Aprobar Estados Financieros.<br>• Convocar a Asamblea General.<br>• Decidir la afiliación a otros organismos.",
+          "colorText"       : "#FCBB14",
+          "buttonClose": {
+            "closedModal"   : true,
+            "posY"          : 35,
+            "posX"          : 82
+          }
+        }
+      }
+    ]
+  },
+
+  "page29": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "EL REPRESENTANTE LEGAL",
+    "text"    : "Es el ejecutor de las decisiones de la Asamblea General y de la Junta Directiva.<br><br><b>FUNCIONES</b><br>Dirigir el Personal <br>- Presentar el Presupuesto y Estados Financieros. <br>- Ordenar los gastos, Contribuir en la elaboración de planes y programas.<br>- Representar legalmente la MUTUAL."
+  },
+
+  "page30": {
+    "type"    : "pageCourse",
+    "headerPage": {
+      "imgHeader"   : "img/menuCourse/n-1.png",
+      "textHeader"  : "Amando el Mutualismo",
+      "color"       : "#27357E"
+    },
+    "title"   : "EL CONTROL SOCIAL",
+    "text"    : "Está relacionado con el componente asociación de la Mutual<br><br>Hace referencia al control de resultados sociales, al de los procedimientos para el logro de dichos resultados, así como a los derechos y obligaciones de los asociados.<br>Corresponde a la Junta de Control social",
+    "instruction": {
+      "type"    : "mouse",
+      "text"    : "Haz clic en la imagen para visualizar el carrusel de imágenes.",
+      "posY"    : 50,
+      "posX"    : 0,
+      "size"    : 330,
+      "color"   : "#F0B114"
+    },
+    "multimedia": {
+      "buttonModal": {
+        "title"       : "",
+        "text"        : "",
+        "imgBg"       : "img/10/btnGallery.png"
+      },
+      "gallery": [
+        {
+          "key"       : 1,
+          "img"       : "img/10/n-1.jpg"
+        },
+        {
+          "key"       : 2,
+          "img"       : "img/10/n-2.jpg"
+        },
+        {
+          "key"       : 3,
+          "img"       : "img/10/n-3.jpg"
+        },
+        {
+          "key"       : 4,
+          "img"       : "img/10/n-4.jpg"
+        }
+      ],
+      "closedModal"   : true
+    }
+  },
+
+  "page31": {
+    "type"            : "endCourse",
+    "message": {
+      "success": {
+        "title"       : "¡Has finalizado el curso Básico de Mutualismo!",
+        "subTitle"    : "¡Muchas gracias!",
+        "module"      : "",
+        "courseName"  : "Estamos seguros que haz aprendido mucho sobre el Mutualismo y cuál es nuestro rol como Mutualistas. <br><br> Haz clic en el botón de finalizar para cerrar el curso y continuar con tu formación"
+      },
+      "error": {
+        "title"       : "¡No has cumplido <br>con el objetivo!",
+        "subTitle"    : "¡Muchos éxitos!",
+        "module"      : "",
+        "courseName"  : "Te invitamos a realizar nuevamente la evaluación, esta vez lo harás mejor. <br><br>Concéntrate en las 7 preguntas que hemos preparado para ti."
+      }
+    },
+    "logoCourse"      : "img/cover/logo-1.png",
+    "logoFooter"      : "img/cover/logo-2.png",
+    "background": {
+      "bg"            : "img/cover/fondo-end.png"
+    },
+    "buttonEnd"       : "Finalizar",
+    "footer": {
+      "label"         : "Seguridad de la información"
+    }
+  },
+
+  "menuCourse": {
+    "type": "menuPage",
+    "Units": [
+      {
+        "unit"          : 1,
+        "title"         : "Amando el Mutualismo",
+        "text"          : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed",
+        "imgBnt"        : "img/menuCourse/n-1.png",
+        "goTo"          : 3,
+        "fullVisited"   : false
+      }
+    ],
+    "instruction": {
+      "type"    : "",
+      "text"    : "En este menú navegarás por los distintos temas del curso, haz clic en aquel que está intermitente o palpitando. ",
+      "posY"    : 515,
+      "posX"    : 40,
+      "size"    : 330,
+      "color"   : "#189BDB"
+    }
+  }
+}
